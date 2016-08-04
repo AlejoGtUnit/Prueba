@@ -1,1 +1,2 @@
 Este es un simple archivo de texto.
+Archivo modificado
