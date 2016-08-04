@@ -1,2 +1,3 @@
 Este es un simple archivo de texto.
-Archivo modificado
+Se agrego esto para caracteristica_x
+Archivo modificado, linea modificada para caracteristica_x
