@@ -1,0 +1,25 @@
+GIT
+Software de control de versiones diseñado por Linus Torvalds.
+
+git init
+git status
+git add archivo.txt
+git add -A .
+git commit -m 'Add cute octocat story'
+git commit -m 'Add all the octocat txt files'
+git log
+git log --summary
+git remote add origin https://github.com/try-git/try_git.git
+git push -u origin master
+git pull origin master
+git diff HEAD
+git add octofamily/octodog.txt
+git reset octofamily/octodog.txt
+git checkout -- octocat.txt
+git branch clean_up
+git checkout clean_up
+git rm '*.txt'
+git rm -r folder_of_cats
+git commit -m "Remove all the cats"
+git checkout master
+git merge clean_up
